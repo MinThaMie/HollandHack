@@ -233,7 +233,7 @@ input#hide:checked ~ span#content {
 }
 
 footer{
-    height: 120px;
+    height: 200px;
     color:#c8c8c8;
     font-size:12px;
     padding: 20px;
